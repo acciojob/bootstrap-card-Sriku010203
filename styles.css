@@ -1,2 +1,16 @@
-
+.container{
+	display:flex;
+	flex-direction:column;
+}
+.btn-primary{
+	background-color:blue;
+	color:white;
+}
+.card-deck{
+	background-color:red;
+	color:white;
+	padding:10px;
+	margin-top:5px;
+	border:1px solid black;
+}
 /* Your CSS Code here. */
